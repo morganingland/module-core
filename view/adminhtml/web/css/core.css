@@ -1,0 +1,6 @@
+.admin__menu #menu-morganingland-core-menu > a:before {
+   content: url('../images/mi-icon.svg');
+    height: 28px;
+    margin: 0 auto;
+    width: 30px;
+}

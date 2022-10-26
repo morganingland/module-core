@@ -1,0 +1,25 @@
+{
+  "name": "morganingland/module-core",
+  "description": "Morgan Ingland Core Module",
+  "type": "magento2-module",
+  "license": "proprietary",
+  "version": "1.0.0",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "morganingland",
+      "email": "sales@miatlantic.us",
+      "homepage": "https://www.miatlantic.us",
+      "role": "Technical Support "
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Morganingland\\Core\\": ""
+    }
+  }
+}
