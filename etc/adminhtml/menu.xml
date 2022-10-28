@@ -22,7 +22,7 @@
  -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
     <menu>
-        <add id="Morganingland_Core::menu" title="Morganingland" module="Morganingland_Core" sortOrder="50" resource="Morganingland_Core::menu"/>
+        <add id="Morganingland_Core::morganmenu" title="MIL" module="Morganingland_Core" sortOrder="50" resource="Morganingland_Core::menu"/>
         <!-- <add id="Morganingland_Core::documentation" title="Documentations" module="Morganingland_Core" sortOrder="10" resource="Morganingland_Core::documentation" parent="Morganingland_Core::menu"/>
         <add id="Morganingland_Core::marketplace" title="Zeta Marketplace" module="Morganingland_Core" sortOrder="10" action="adminhtml/system_config/edit/section/mpmarketplace" resource="Morganingland_Core::marketplace" parent="Morganingland_Core::documentation"/>
         <add id="Morganingland_Core::userguide" title="User Guides" module="Morganingland_Core" sortOrder="20" action="zeta_core/index/userguide" resource="Morganingland_Core::userguide" parent="Morganingland_Core::documentation"/> -->
